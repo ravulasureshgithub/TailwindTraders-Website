@@ -1,4 +1,4 @@
-# Tailwind Traders Website
+# Tailwind Traders Website - Suresh Ravula
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
 
